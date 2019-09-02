@@ -1,0 +1,1418 @@
+[
+  {
+    "downloads": 4858966,
+    "package": "lodash.uniq",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 4685629,
+    "package": "lodash.memoize",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 4177903,
+    "package": "lodash.isplainobject",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 4170868,
+    "package": "lodash.clonedeep",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 3871193,
+    "package": "lodash.get",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 3867780,
+    "package": "lodash.keys",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 3456254,
+    "package": "lodash.camelcase",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 3344792,
+    "package": "lodash.debounce",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 3016972,
+    "package": "lodash.escape",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 3011044,
+    "package": "lodash.isarguments",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2980331,
+    "package": "lodash.merge",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2979171,
+    "package": "lodash.defaults",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2977788,
+    "package": "lodash.tail",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2845741,
+    "package": "lodash.isstring",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2665007,
+    "package": "lodash.once",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2358939,
+    "package": "lodash.flattendeep",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2126624,
+    "package": "lodash.mergewith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2035743,
+    "package": "lodash.isnumber",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2016382,
+    "package": "lodash.flatten",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2016003,
+    "package": "lodash.isboolean",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1980429,
+    "package": "lodash.unescape",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1834927,
+    "package": "lodash.throttle",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1584744,
+    "package": "lodash.foreach",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1540493,
+    "package": "lodash.pick",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1525435,
+    "package": "lodash.some",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1504887,
+    "package": "lodash.clone",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1375269,
+    "package": "lodash.isobject",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1313973,
+    "package": "lodash.set",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1210373,
+    "package": "lodash.map",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1107491,
+    "package": "lodash.kebabcase",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1052327,
+    "package": "lodash.difference",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 980379,
+    "package": "lodash.has",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 930792,
+    "package": "lodash.toarray",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 878651,
+    "package": "lodash.reduce",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 813159,
+    "package": "lodash.filter",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 795599,
+    "package": "lodash.isfunction",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 792044,
+    "package": "lodash.padend",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 789689,
+    "package": "lodash.union",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 710328,
+    "package": "lodash.reject",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 687431,
+    "package": "lodash.padstart",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 676554,
+    "package": "lodash.escaperegexp",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 675795,
+    "package": "lodash.defaultsdeep",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 629768,
+    "package": "lodash.values",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 617556,
+    "package": "lodash.pad",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 615306,
+    "package": "lodash.ismatch",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 607867,
+    "package": "lodash.isempty",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 600402,
+    "package": "lodash.snakecase",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 543200,
+    "package": "lodash.at",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 538030,
+    "package": "lodash.istypedarray",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 494181,
+    "package": "lodash.create",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 484180,
+    "package": "lodash.cond",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 388442,
+    "package": "lodash.last",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 360261,
+    "package": "lodash.pickby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 352273,
+    "package": "lodash.keysin",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 346083,
+    "package": "lodash.uniqby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 338810,
+    "package": "lodash.capitalize",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 323937,
+    "package": "lodash.upperfirst",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 318392,
+    "package": "lodash.transform",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 302205,
+    "package": "lodash.zip",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 295537,
+    "package": "lodash.every",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 278924,
+    "package": "lodash.without",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 268598,
+    "package": "lodash.flow",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 231474,
+    "package": "lodash.maxby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 197300,
+    "package": "lodash.chunk",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 196245,
+    "package": "lodash.endswith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 193968,
+    "package": "lodash.deburr",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 191286,
+    "package": "lodash.tonumber",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 171058,
+    "package": "lodash.uniqueid",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 150567,
+    "package": "lodash.sample",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 149340,
+    "package": "lodash.toplainobject",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 141396,
+    "package": "lodash.forown",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 138431,
+    "package": "lodash.shuffle",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 128448,
+    "package": "lodash.groupby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 128024,
+    "package": "lodash.startswith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 127803,
+    "package": "lodash.topath",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 122548,
+    "package": "lodash.repeat",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 118989,
+    "package": "lodash.words",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 111492,
+    "package": "lodash.isundefined",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 107332,
+    "package": "lodash.truncate",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 105154,
+    "package": "lodash.clonedeepwith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 104808,
+    "package": "lodash.flowright",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 104239,
+    "package": "lodash.castarray",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 101594,
+    "package": "lodash.trimend",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 97800,
+    "package": "lodash.isnil",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 91033,
+    "package": "lodash.islength",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 90575,
+    "package": "lodash.startcase",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 62251,
+    "package": "lodash.range",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 60994,
+    "package": "lodash.intersection",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 60557,
+    "package": "lodash.result",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 59195,
+    "package": "lodash.iserror",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 58820,
+    "package": "lodash.compact",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 53992,
+    "package": "lodash.unset",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 52944,
+    "package": "lodash.findkey",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 49099,
+    "package": "lodash.trim",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 41033,
+    "package": "lodash.orderby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 39954,
+    "package": "lodash.trimstart",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 38589,
+    "package": "lodash.differencewith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 36756,
+    "package": "lodash.tostring",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 36432,
+    "package": "lodash.isnull",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 33992,
+    "package": "lodash.unionwith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 33395,
+    "package": "lodash.lowercase",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 32893,
+    "package": "lodash.property",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 32320,
+    "package": "lodash.indexof",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 31868,
+    "package": "lodash.times",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 31707,
+    "package": "lodash.lowerfirst",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 30976,
+    "package": "lodash.uppercase",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 28548,
+    "package": "lodash.flatmap",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 26300,
+    "package": "lodash.initial",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 25383,
+    "package": "lodash.zipobject",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 25185,
+    "package": "lodash.keyby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 21325,
+    "package": "lodash.differenceby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 21324,
+    "package": "lodash.remove",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 21047,
+    "package": "lodash.round",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 20149,
+    "package": "lodash.defer",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 17822,
+    "package": "lodash.isregexp",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 17224,
+    "package": "lodash.size",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 16964,
+    "package": "lodash.head",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 14249,
+    "package": "lodash.unionby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 13739,
+    "package": "lodash.hasin",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 13733,
+    "package": "lodash.uniqwith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 13372,
+    "package": "lodash.partition",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 12475,
+    "package": "lodash.invert",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 11666,
+    "package": "lodash.isobjectlike",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 10327,
+    "package": "lodash.isdate",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 9373,
+    "package": "lodash.xorby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 9234,
+    "package": "lodash.random",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 9165,
+    "package": "lodash.sumby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 8168,
+    "package": "lodash.flattendepth",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 8126,
+    "package": "lodash.pullall",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 7253,
+    "package": "lodash.samplesize",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 7014,
+    "package": "lodash.pull",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 6497,
+    "package": "lodash.matches",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 6291,
+    "package": "lodash.isequalwith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 6259,
+    "package": "lodash.clamp",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 5870,
+    "package": "lodash.split",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 5822,
+    "package": "lodash.sum",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 5743,
+    "package": "lodash.countby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 5618,
+    "package": "lodash.update",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 5332,
+    "package": "lodash.take",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 5090,
+    "package": "lodash.findlastindex",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 4842,
+    "package": "lodash.minby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 4818,
+    "package": "lodash.first",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 4380,
+    "package": "lodash.findlast",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 4295,
+    "package": "lodash.flatmapdeep",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 3827,
+    "package": "lodash.xor",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 3794,
+    "package": "lodash.delay",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 3667,
+    "package": "lodash.setwith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 3437,
+    "package": "lodash.slice",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 3356,
+    "package": "lodash.defaultto",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 3157,
+    "package": "lodash.iselement",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 3148,
+    "package": "lodash.replace",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2862,
+    "package": "lodash.invoke",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2737,
+    "package": "lodash.intersectionby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2647,
+    "package": "lodash.intersectionwith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2410,
+    "package": "lodash.negate",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2400,
+    "package": "lodash.before",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 2380,
+    "package": "lodash.drop",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1965,
+    "package": "lodash.takeright",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1799,
+    "package": "lodash.mean",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1755,
+    "package": "lodash.matchesproperty",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1706,
+    "package": "lodash.add",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1688,
+    "package": "lodash.conforms",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1681,
+    "package": "lodash.inrange",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1447,
+    "package": "lodash.zipwith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1426,
+    "package": "lodash.over",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1287,
+    "package": "lodash.attempt",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1268,
+    "package": "lodash.unzip",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1245,
+    "package": "lodash.eq",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1204,
+    "package": "lodash.isnative",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1149,
+    "package": "lodash.sortedindexby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1098,
+    "package": "lodash.invertby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 1046,
+    "package": "lodash.dropright",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 925,
+    "package": "lodash.pullat",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 920,
+    "package": "lodash.pullallwith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 910,
+    "package": "lodash.gt",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 889,
+    "package": "lodash.sorteduniq",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 885,
+    "package": "lodash.reduceright",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 885,
+    "package": "lodash.lt",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 876,
+    "package": "lodash.lastindexof",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 871,
+    "package": "lodash.nth",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 727,
+    "package": "lodash.xorwith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 597,
+    "package": "lodash.tofinite",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 585,
+    "package": "lodash.isarraylike",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 511,
+    "package": "lodash.after",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 494,
+    "package": "lodash.takewhile",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 454,
+    "package": "lodash.meanby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 446,
+    "package": "lodash.ismatchwith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 444,
+    "package": "lodash.gte",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 432,
+    "package": "lodash.issymbol",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 373,
+    "package": "lodash.sortedindexof",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 343,
+    "package": "lodash.isset",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 313,
+    "package": "lodash.ismap",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 312,
+    "package": "lodash.sortedindex",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 308,
+    "package": "lodash.sorteduniqby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 305,
+    "package": "lodash.conformsto",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 303,
+    "package": "lodash.isbuffer",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 289,
+    "package": "lodash.functions",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 277,
+    "package": "lodash.floor",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 254,
+    "package": "lodash.propertyof",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 215,
+    "package": "lodash.overevery",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 215,
+    "package": "lodash.oversome",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 199,
+    "package": "lodash.parseint",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 186,
+    "package": "lodash.pullallby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 172,
+    "package": "lodash.tointeger",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 171,
+    "package": "lodash.overargs",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 168,
+    "package": "lodash.tosafeinteger",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 155,
+    "package": "lodash.isarraylikeobject",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 118,
+    "package": "lodash.sortedlastindex",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 113,
+    "package": "lodash.ceil",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 99,
+    "package": "lodash.dropwhile",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 91,
+    "package": "lodash.invokemap",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 81,
+    "package": "lodash.droprightwhile",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 80,
+    "package": "lodash.foreachright",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 66,
+    "package": "lodash.zipobjectdeep",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 62,
+    "package": "lodash.clonewith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 53,
+    "package": "lodash.ntharg",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 46,
+    "package": "lodash.rangeright",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 37,
+    "package": "lodash.lte",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 36,
+    "package": "lodash.isarraybuffer",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 32,
+    "package": "lodash.sortedlastindexby",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 26,
+    "package": "lodash.flip",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 23,
+    "package": "lodash.takerightwhile",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 21,
+    "package": "lodash.subtract",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 20,
+    "package": "lodash.unzipwith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 16,
+    "package": "lodash.findlastkey",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 13,
+    "package": "lodash.tolength",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 11,
+    "package": "lodash.isweakset",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 11,
+    "package": "lodash.flatmapdepth",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 9,
+    "package": "lodash.isweakmap",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 8,
+    "package": "lodash.method",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 7,
+    "package": "lodash.methodof",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 7,
+    "package": "lodash.sortedlastindexof",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 6,
+    "package": "lodash.forownright",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 5,
+    "package": "lodash.multiply",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 4,
+    "package": "lodash.divide",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  },
+  {
+    "downloads": 4,
+    "package": "lodash.updatewith",
+    "start": "2019-08-26",
+    "end": "2019-09-01"
+  }
+]
