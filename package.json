@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha --require @babel/register ./test/*.test.js",
-    "test:bail": "mocha --require @babel/register ./test/*.test.js"
+    "test:one": "mocha --watch --bail --require @babel/register "
   },
   "keywords": [],
   "author": "",
